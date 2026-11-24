@@ -6,7 +6,7 @@
 
 The sentence this program hands in, written for a traveler who has just arrived from 1800:
 
-> Picture a letter-post joining every library and market, so swift that a question asked at breakfast is answered from a village in China before the tea cools, and anyone may read, write or trade.
+> Picture a letter-post joining every library and market, so swift that a question asked at breakfast is answered from a village in China before your tea cools, and anyone may read, write or trade.
 
 Nothing in it would puzzle him. He knows a letter-post, he knows libraries and markets, he has watched tea go cold. What he has never seen is the speed, or a post that any soul may write for as easily as read from, so that is where the sentence spends its words. It leaves out the machinery on purpose: hand him a box that glows and he learns nothing, hand him this picture and he can ask sensible questions about the rest.
 

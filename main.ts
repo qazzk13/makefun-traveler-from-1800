@@ -13,7 +13,7 @@ process.umask(0o022);
 // The sentence, exactly as it goes to the judge:
 // "Picture a letter-post joining every library and market, so swift
 // that a question asked at breakfast is answered from a village in
-// China before the tea cools, and anyone may read, write or trade."
+// China before your tea cools, and anyone may read, write or trade."
 //
 // Deterministic: same sentence out every run, no network, no secrets.
 // Never chmod here: chmod on a directory the grading sandbox does not
@@ -21,7 +21,7 @@ process.umask(0o022);
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const SENTENCE =
-  "Picture a letter-post joining every library and market, so swift that a question asked at breakfast is answered from a village in China before the tea cools, and anyone may read, write or trade.";
+  "Picture a letter-post joining every library and market, so swift that a question asked at breakfast is answered from a village in China before your tea cools, and anyone may read, write or trade.";
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", SENTENCE, "utf8");
